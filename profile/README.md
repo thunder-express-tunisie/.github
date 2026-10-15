@@ -1,17 +1,25 @@
 # Thunder Express
 
-Thunder Express est une plateforme de livraison en Tunisie qui met en relation les clients, les restaurants partenaires et les livreurs.
+**Vos restaurants et commerces locaux, livrés chez vous.**
 
-## Nos services
+Thunder Express est une plateforme tunisienne qui relie les clients aux restaurants, supermarchés et commerces partenaires, avec un réseau de livreurs locaux.
 
-- **Livraison de repas** : découvrez les restaurants disponibles dans votre zone et consultez leurs menus.
-- **Commande en ligne** : choisissez vos plats et passez commande depuis le site ou l’application Thunder Express.
-- **Services de livraison** : consultez les prestations proposées et leur disponibilité selon votre zone.
+### Commander avec Thunder Express
 
-Pour découvrir les restaurants et les services disponibles, rendez-vous sur le [site officiel de Thunder Express](https://thunder-express.com).
+- **Repas** : découvrez les menus des restaurants et commandez vos plats préférés.
+- **Courses et commerces** : retrouvez les enseignes et les catégories disponibles près de chez vous.
+- **Livraison locale** : renseignez votre adresse pour consulter la disponibilité, les frais et les horaires.
 
----
+Nos zones comprennent **Sousse, Sahloul, Hammam Sousse et Monastir**, selon les partenaires et l’adresse de livraison.
 
-## About Thunder Express
+[Découvrir Thunder Express](https://thunder-express.com) · [Application iPhone](https://apps.apple.com/app/id6444381883) · [Application Android](https://play.google.com/store/apps/details?id=io.thunder.express.tn)
 
-Thunder Express is a delivery platform in Tunisia connecting customers, partner restaurants and delivery couriers. Discover local restaurant menus and available delivery services on our [official website](https://thunder-express.com).
+### Rejoindre le réseau
+
+Vous êtes restaurateur ou commerçant ? [Devenez partenaire](https://thunder-express.com/devenir-partenaire).
+
+Vous souhaitez effectuer des livraisons ? [Découvrez comment devenir livreur](https://thunder-express.com/devenir-livreur).
+
+### About us
+
+Thunder Express connects customers with local restaurants, supermarkets and shops in Tunisia. We serve Sousse, Sahloul, Hammam Sousse and Monastir, subject to partner availability and delivery address. Explore menus and services on our [official website](https://thunder-express.com).
